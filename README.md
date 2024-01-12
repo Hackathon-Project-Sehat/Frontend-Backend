@@ -12,10 +12,8 @@ SEHAT leverages machine learning models deployed on kiosk machines, addressing h
 
 <!-- [![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/0)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/0)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/1)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/1)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/2)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/2)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/3)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/3)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/4)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/4)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/5)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/5)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/6)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/6)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/7)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/7) -->
 
-### Links- add karne hai
-- **Frontend**: https://fossevents2.netlify.app/
-- **Backend**: https://foss-events.herokuapp.com
-- **Figma File**: [Click Here](https://www.figma.com/file/1JSMaoKNjNXYHn2ABc2ra3/Foss-events2.0?type=design&node-id=4717%3A1283&mode=design&t=NYnbA7Q4UQvLjTcU-1)
+### Links
+- **Figma File**: [Click Here](https://www.figma.com/file/Ry4jT59WUElBQAZIByWB5S/SEHAT-(SIH)?type=design&node-id=0%3A1&mode=design&t=iHS28N94SQiAg1re-1)
 
 ## Browser Support
 - **Firefox**:	version 4 and up
@@ -30,11 +28,10 @@ SEHAT leverages machine learning models deployed on kiosk machines, addressing h
 <img src="https://img.shields.io/badge/react.js%20-%2343853D.svg?&style=for-the-badge&logo=react.js&logoColor=white"/>  <img src="https://img.shields.io/badge/Vite%20-%23430098.svg?&style=for-the-badge&&logoColor=white"/> <img src="https://img.shields.io/badge/flask%20-%23121011.svg?&style=for-the-badge&&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23404d59.svg?&style=for-the-badge"/> <img src ="https://img.shields.io/badge/machine learning-%234ea94b.svg?&style=for-the-badge&&logoColor=white"/>
 
 - **Frontend**: HTML5, CSS3, JavaScript, ReactJs, Vite, Tailwind CSS
-- **Backend**: Flask
+- **Backend**: Flask , Python
 - **IDE**: VS Code
 - **Version Control**: Git and GitHub
 - **Database**: Firebase
-- **Hosting**: Jo bhi ho
 
 ### GitHub Repository Structure
 
@@ -50,28 +47,33 @@ SEHAT leverages machine learning models deployed on kiosk machines, addressing h
 - Fork and clone the Repo by typing the following commands in the terminal 
 ```
 $ git clone https://github.com/Hackathon-Project-Sehat/Frontend-Backend.git
+$ cd frontend
 ```
 - Open this folder in your favourite IDE.  <br>
 - Run `npm install`.<br>
 - Run `npm run dev` for starting server.
 
 <strong>Backend</strong>
-> **Note**: You must have Nodejs installed 
+> **Note**: You must have Python installed 
 
 - Fork and clone the Repo by typing the following commands in the terminal 
 ```
-$ git clone https://github.com/your-username/Foss-events2.0.git
-$ cd Foss-events2.0
+$ git clone https://github.com/Hackathon-Project-Sehat/Frontend-Backend.git
+$ cd Hackathon-Project-Sehat/Frontend-Backend
+$ cd backend
+python main.py
 ```
 
 <strong>Machine Learning</strong>
-> **Note**: You must have Nodejs installed 
+> **Note**: You must have Python installed 
 
 - Fork and clone the Repo by typing the following commands in the terminal 
 ```
-$ git clone https://github.com/your-username/Foss-events2.0.git
-$ cd Foss-events2.0
+$ git clone https://github.com/Hackathon-Project-Sehat/Frontend-Backend.git
+$ cd Hackathon-Project-Sehat/Frontend-Backend
+$ cd backend
 ```
+All the various machine learning models will be found in this repo itself 
 <!-- ![fork](https://i.postimg.cc/y8z4WCcV/image.jpg)
 
 
@@ -127,10 +129,11 @@ $ git push
       - `Eye cataract detection` <br>
 
 ## Resources
-ml models k reference datasets or inspirations k links dede
 - **Git and Github**: [Git and Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
 - **Frontend**: [Frontend development for Beginners](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH2k1SANK5rvq_EAgUKTPoK)
-- **Backend**: [Node.js for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+- **Backend**: [Flask for Beginners](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
+- **Datasets**: [Kaggle](https://kaggle.com/datasets)
+- **Machine Learning**: [Machine Learning for Beginners](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEXg5BV10k9THtjnS48yI-T)
 
 
 
@@ -142,9 +145,6 @@ ml models k reference datasets or inspirations k links dede
 <!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/DSC-JSS-NOIDA/Foss-events2.0)
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/DSC-JSS-NOIDA/Foss-events2.0) -->
                                                    
-
-> **_Any confusion?_** 
-> **_Feel free to contact us @ [vaanipathariya@gmail.com](mailto:dscjssnoida@gmail.com?Subject=DSCHackFest2023)_**
 
 
 ## Connect with us  
